@@ -1,2 +1,2 @@
 # algorithmProblems
-contains algorthm problems
+contains algorithm problems
